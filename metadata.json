@@ -1,0 +1,6 @@
+{
+  "name": "DevWorkflow Canvas",
+  "description": "A high-performance interactive developer workflow editor and visualizer. Define system design, data pipelines, database architectures and network flows with clean, beautiful JSON templates or with AI-driven generator prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
