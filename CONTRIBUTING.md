@@ -20,9 +20,8 @@ Thank you for helping make DevWorkflow Canvas better! 🎉
 git clone https://github.com/jsc2017605097/devworkflow-canvas.git
 cd devworkflow-canvas
 npm install
-cp .env.example .env
-# Add GEMINI_API_KEY to .env
 npm run dev
+# Optional: cp .env.example .env and set GEMINI_API_KEY for Direct Gemini tab
 ```
 
 ## Code guidelines

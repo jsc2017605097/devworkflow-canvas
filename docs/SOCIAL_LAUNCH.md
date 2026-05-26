@@ -22,7 +22,7 @@ Trending is driven by **stars in a short window** + **visibility**. Use this aft
 
 ## Post template (English)
 
-> I built **DevWorkflow Canvas** — describe your system in plain language, Gemini generates workflow JSON, and you get an interactive architecture diagram with templates, simulation, and shareable links.
+> I built **DevWorkflow Canvas** — describe your system in plain language, copy a prompt into ChatGPT or Claude (no API key), paste the JSON back, and get an interactive architecture diagram with templates, simulation, and shareable links.
 >
 > Open source (MIT): https://github.com/jsc2017605097/devworkflow-canvas
 >

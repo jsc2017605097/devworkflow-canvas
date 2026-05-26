@@ -1,6 +1,6 @@
 {
   "name": "devworkflow-canvas",
-  "description": "AI-powered system design canvas — describe your architecture in natural language, generate workflow JSON with Gemini, visualize and share interactive diagrams.",
+  "description": "AI-powered system design canvas — use ChatGPT, Claude, or optional Gemini to generate workflow JSON and visualize interactive architecture diagrams. No API key required.",
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
